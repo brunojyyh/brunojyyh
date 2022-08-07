@@ -3,7 +3,7 @@
 </h1> 
 
 <p align='center'>
-  A accounting and I.T Student from São Paulo, Brazil.
+  A Data Analyst and I.T Student from São Paulo, Brazil.
 </p>
 
 <p align='center'>
